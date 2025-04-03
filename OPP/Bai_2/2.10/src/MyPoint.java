@@ -2,7 +2,7 @@ public class MyPoint {
     private int x = 0;
     private int y = 0;
     
-    public MyPoint() {}
+    public MyPoint() { }
     
     public MyPoint(int x, int y) {
         this.x = x;
